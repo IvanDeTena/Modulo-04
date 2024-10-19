@@ -7,8 +7,9 @@ Las funciones en JavaScript son bloques de código reutilizables que permiten ej
 ## Sintaxis básica de una función
 
 ><pre>function nombreFuncion(parámetros) {
-    ><pre>// Cuerpo de la función: el código que se ejecuta cuando se llama la función
-    ><pre>return resultado;}
+><pre>// Cuerpo de la función: el código que se ejecuta cuando se llama la función
+><pre>return resultado;}
+
 ## Ejemplo simple
 
 Este ejemplo muestra una función llamada suma que toma dos parámetros (a y b), los suma y devuelve el resultado.
@@ -43,7 +44,9 @@ Las arrow functions introducidas en ES6 son una forma más concisa de escribir f
 ### Diferencias clave de las funciones flecha:
 
 ### :one:
+
  No tienen su propio this, lo que puede simplificar el manejo de ciertos contextos.
 
 ### :two:
+
 Son más compactas en su sintaxis.
